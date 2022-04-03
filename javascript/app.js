@@ -48,4 +48,4 @@ const checkout = phoneNumber => {
 }
 
 loadProducts(produtos,'#product-div')
-checkout('5511972155241')
+checkout('5511972155242')
